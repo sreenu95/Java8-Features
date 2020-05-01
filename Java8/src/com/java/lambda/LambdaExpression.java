@@ -14,5 +14,6 @@ public class LambdaExpression {
 		thread.start();
 		System.out.println("from main");
 		
+		
 	}
 }
